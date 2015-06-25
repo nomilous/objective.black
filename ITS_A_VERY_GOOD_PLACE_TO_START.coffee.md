@@ -52,7 +52,7 @@ And __The.OTHER.Barman__ replies,
     I("""
         Certainly see your point, 
         but there is #{ 
-            OneSmallProblem
+            one small problem
         }
 
     """)
