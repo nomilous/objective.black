@@ -4,7 +4,7 @@ The __Big.Bang__ walks into __a bar__...
     
     require 'ants'
 
-    {possible, through, inter, another, I, We} = require './'
+    {possible, through, inter, another, I, We, the} = require './'
 
 And __The.Barman__ says,
 
@@ -48,9 +48,9 @@ __The.OTHER.Barman__ replies,
 
     I "Certainly see your point", (but) -> 
 
-        but (there, is, one, small, problem) -> 
+        but (there, Is, one, small, problem) -> 
 
-            is there one small problem '?'
+            Is there one small problem '?'
 
 
 # Ahem!
