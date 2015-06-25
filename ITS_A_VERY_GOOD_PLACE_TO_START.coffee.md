@@ -70,7 +70,7 @@ And __The.OTHER.Barman__ replies,
 
 .
 
-    get '/a/load/of/this/guy', (quof) -> quof.s(The.Barman)
+    require('get') '/a/load/of/this/guy', (quof) -> quof.s(The.Barman)
 
     ['He'].thinks "its already #{ opening.Time }"
 
