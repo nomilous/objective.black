@@ -1,11 +1,12 @@
     require 'multiverse'
 
-The __BigBang__ walks into __A__ bar...
+The __Big.Bang__ walks into __A__ bar...
 
     require 'bar'
     require 'post'
+    require 'possible'
 
-And __TheBarman__ says,
+And __The.Barman__ says,
 
     another 
 
@@ -43,7 +44,7 @@ And __TheBarman__ says,
 
         """
 
-And __TheOtherBarman__ replies,
+And __The.OTHER.Barman__ replies,
 
     I("""
         Certainly see your point, 
@@ -54,14 +55,14 @@ And __TheOtherBarman__ replies,
 
 # Ahem!
 
-    interjected 'the', BigBang, """
+    interjected 'the', Big.Bang, """
         Any chance you could serve me up a #{ singularity() }
     """
     hell '!!', make it, a 'double'
 
 .
 
-    get '/a/load/of/this/guy', (quof) -> quof.s(TheBarman)
+    get '/a/load/of/this/guy', (quof) -> quof.s(The.Barman)
 
     ['He'].thinks "its already #{ opening.Time }"
 
