@@ -59,9 +59,7 @@ And __TheOtherBarman__ replies,
     """
     hell '!!', make it, a 'double'
 
-    #
-    #
-    #
+.
 
     get '/a/load/of/this/guy', (quof) -> quof.s(TheBarman)
 
