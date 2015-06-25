@@ -4,6 +4,8 @@ The __Big.Bang__ walks into __A__ bar...
     
     require 'ants'
 
+    {possible, through, inter, I, We} = require './'
+
 And __The.Barman__ says,
 
     another 
@@ -51,7 +53,7 @@ And __The.OTHER.Barman__ replies,
 
 # Ahem!
 
-    interjected the, Big.Bang, "Any chance you could serve me up a #{ singularity() }"
+    inter.jected the, Big.Bang, "Any chance you could serve me up a #{ singularity() }"
 
     require 'religion'
 
