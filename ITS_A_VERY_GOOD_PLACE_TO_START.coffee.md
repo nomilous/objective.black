@@ -58,7 +58,7 @@ And __TheOtherBarman__ replies,
 
     interjected 'the', BigBang, """
 
-        Any chance you could server me up a #{ singularity() }
+        Any chance you could serve me up a #{ singularity() }
 
     """
 
@@ -66,7 +66,7 @@ And __TheOtherBarman__ replies,
 
     #
 
-    get '/a/load/of/this/guy' (quofs) -> quofs(TheBarman)
+    get '/a/load/of/this/guy' (quof) -> quof.s(TheBarman)
 
     ['He'].thinks "its already #{ opening.Time }"
 
