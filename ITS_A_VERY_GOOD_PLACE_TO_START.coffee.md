@@ -1,6 +1,6 @@
     require 'multiverse'
 
-The __BigBang__ walks into a bar...
+The __BigBang__ walks into __A__ bar...
 
     require 'bar'
     require 'post'
