@@ -1,10 +1,10 @@
     require 'multiverse'
 
 The __Big.Bang__ walks into __A__ bar...
-
+    
+    require 'possible'
     require 'bar'
     require 'post'
-    require 'possible'
 
 And __The.Barman__ says,
 
