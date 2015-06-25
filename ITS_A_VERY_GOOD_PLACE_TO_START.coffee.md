@@ -52,7 +52,7 @@ And __The.OTHER.Barman__ replies,
     I("""
         Certainly see your point, 
         but there is #{ 
-            OneSmallProblem    (require 'inteject')
+            OneSmallProblem
         }
 
     """)
@@ -60,10 +60,13 @@ And __The.OTHER.Barman__ replies,
 
 # Ahem!
 
-    interject.ed 'the', Big.Bang, """
+    i.nterjected 'the', Big.Bang, """
         Any chance you could serve me up a #{ singularity() }
     """
-    hell '!!', make it, a 'double'
+
+    require 'religion'
+
+    hell '!!', make: it: a: 'double'
 
 .
 
