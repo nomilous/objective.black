@@ -3,7 +3,7 @@ Let's start [at the very beginning](https://github.com/nomilous/objective.black/
 # objective.black
 
 [&#9654;](https://github.com/nomilous/i.) i.<br>
-&#9654; think.<br>
+&#9654; believe.<br>
 [&#9654;](https://github.com/nomilous/we.) we.<br>
 &#9654; can.<br>
 &#9654; do.<br>
