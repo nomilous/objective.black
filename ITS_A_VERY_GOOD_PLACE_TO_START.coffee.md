@@ -94,7 +94,7 @@ __The.OTHER.Barman__ replies,
 
 Replied __The.Barman__
 
-    require('their') -> universes.keep 'landing', 'up' + having 'Humans in'
+    require('their') -> universes.keep 'landing', 'up' + having 'HUMANS in'
 
 
 
