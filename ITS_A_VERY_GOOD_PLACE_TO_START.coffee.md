@@ -47,6 +47,8 @@ And __The.Barman__ says,
 
 And __The.OTHER.Barman__ replies,
 
+    require('i.')
+
     I("""
         Certainly see your point, 
         but there is #{ 
