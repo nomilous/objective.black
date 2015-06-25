@@ -1,12 +1,12 @@
     require 'multiverse'
 
-### The __Big.Bang__ walks into __a bar__...
+The __Big.Bang__ walks into __a bar__...
     
     require 'ants'
 
     {possible, through, inter, another, I, We} = require './'
 
-### And __The.Barman__ says,
+And __The.Barman__ says,
 
     communication = another
 
