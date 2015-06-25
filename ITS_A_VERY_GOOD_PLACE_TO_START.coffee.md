@@ -8,7 +8,7 @@ The __Big.Bang__ walks into __a bar__...
 
 And __The.Barman__ says,
 
-    communication = another
+    another
 
         posibility: """
 
