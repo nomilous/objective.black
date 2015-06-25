@@ -61,7 +61,7 @@ And __The.OTHER.Barman__ replies,
 
     require('get') '/a/load/of/this/guy', (quofs) -> quofs The.Barman
 
-    [he].thinks "its already #{ opening.Time }"
+    [he()].thinks "its already #{ opening.Time }"
 
 
 
