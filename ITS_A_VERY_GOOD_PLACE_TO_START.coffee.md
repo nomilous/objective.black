@@ -4,7 +4,12 @@ The __Big.Bang__ walks into __a bar__...
     
     require 'ants'
 
-    {possible, through, inter, another, I, We, the} = require './'
+    {I, We, the} = require './'
+
+    require 'possible'
+    require 'through' 
+    require 'inter'
+    require 'another' 
 
 And __The.Barman__ says,
 
@@ -63,7 +68,7 @@ __The.OTHER.Barman__ replies,
 
 .
 
-    get = require('get') '/a/load/of/this/guy', (quofs) ->
+    get = require('g.et') '/a/load/of/this/guy', (quofs) ->
 
         quofs The.Barman
 
@@ -73,7 +78,7 @@ __The.OTHER.Barman__ replies,
 
     require 'aaaaw'
 
-    aaaaw 'Come on guys', I (just, want, drink) ->
+    aaaaw 'Come on guys', I (just, want, a, drink) ->
 
         if 'you dont want' == 2
 
@@ -95,4 +100,7 @@ Replied __The.Barman__
 
 ##### To be continued...
 
-And made to actually [run](https://www.youtube.com/watch?v=SVdoZNxtL8k).
+And [made]() to actually [run](https://www.youtube.com/watch?v=SVdoZNxtL8k).
+
+
+

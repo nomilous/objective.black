@@ -1,0 +1,38 @@
+{
+  "name": "objective.black",
+  "version": "0.0.0",
+  "description": "Let's start [at the very beginning](https://github.com/nomilous/objective.black/blob/master/ITS_A_VERY_GOOD_PLACE_TO_START.coffee.md)...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nomilous/objective.black.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nomilous/objective.black/issues"
+  },
+  "homepage": "https://github.com/nomilous/objective.black#readme",
+  "devDependencies": {
+    "objective": "0.0.26"
+  },
+
+
+  "dependencies": {
+    "multiverse": "0.0.1",
+    "ants": "0.0.1",
+    "possible": "0.0.1",
+    "through": "0.0.1", 
+    "inter": "0.0.1",
+    "another": "0.0.1",
+    "religion": "0.0.1",
+    "g.et": "0.0.1",
+    "aaaaw": "0.0.1",
+    "their": "0.0.1"
+  }
+
+
+}
