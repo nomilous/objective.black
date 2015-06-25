@@ -52,10 +52,12 @@ And __The.OTHER.Barman__ replies,
             OneSmallProblem()
         }
     """)
+.
+    require 'inteject'
 
 # Ahem!
 
-    interjected 'the', Big.Bang, """
+    interject.ed 'the', Big.Bang, """
         Any chance you could serve me up a #{ singularity() }
     """
     hell '!!', make it, a 'double'
