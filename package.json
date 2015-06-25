@@ -17,11 +17,8 @@
   },
   "homepage": "https://github.com/nomilous/objective.black#readme",
   "devDependencies": {
-    "objective": "0.0.26"
-  },
+    "objective": "0.0.26",
 
-
-  "dependencies": {
     "multiverse": "0.0.1",
     "ants": "0.0.1",
     "possible": "0.0.1",
@@ -32,7 +29,8 @@
     "g.et": "0.0.1",
     "aaaaw": "0.0.1",
     "their": "0.0.1"
+
+  },
+  "dependencies": {
   }
-
-
 }

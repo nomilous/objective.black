@@ -100,7 +100,7 @@ Replied __The.Barman__
 
 ##### To be continued...
 
-And [made to](https://github.com/nomilous/objective.black/blob/master/package.json#L24) actually [run](https://www.youtube.com/watch?v=SVdoZNxtL8k).
+And [made to](https://github.com/nomilous/objective.black/blob/master/package.json#L22) actually [run](https://www.youtube.com/watch?v=SVdoZNxtL8k).
 
 
 
