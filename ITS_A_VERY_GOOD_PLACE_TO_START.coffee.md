@@ -46,7 +46,7 @@ And __The.Barman__ says,
 
 __The.OTHER.Barman__ replies,
 
-    I "Certainly see your point", (but) -> 
+    I "certainly see your point", (but) -> 
 
         but (there, Is, one, small, problem) -> 
 
@@ -69,6 +69,27 @@ __The.OTHER.Barman__ replies,
 
         [he()].thinks "its already #{ opening.Time }"
 
+.
+
+    require 'aaaaw'
+
+    aaaaw 'Come on guys', I (just, want, drink) ->
+
+        if 'you dont want' == 2
+
+            serve me
+
+        I['could'].always 'head', on over 2, that ['place', 'across', the]
+
+        .street()
+
+.
+
+    I['wouldn\'t'] -> do (that) -> if I .was 'you'
+
+Replied __The.Barman__
+
+    require('their') -> universes.keep 'landing', 'up' + having 'Humans in'
 
 
 
