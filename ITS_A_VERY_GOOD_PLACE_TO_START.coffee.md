@@ -52,7 +52,7 @@ And __The.OTHER.Barman__ replies,
             OneSmallProblem()
         }
     """)
-.
+    
     require 'inteject'
 
 # Ahem!
