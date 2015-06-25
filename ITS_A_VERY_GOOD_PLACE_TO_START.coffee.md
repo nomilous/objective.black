@@ -1,14 +1,14 @@
     require 'multiverse'
 
-The __Big.Bang__ walks into __A__ bar...
+The __Big.Bang__ walks into __a bar__...
     
     require 'ants'
 
-    {possible, through, inter, I, We} = require './'
+    {possible, through, inter, another, I, We} = require './'
 
 And __The.Barman__ says,
 
-    another 
+    communication = another
 
         posibility: """
 
@@ -46,9 +46,11 @@ And __The.Barman__ says,
 
 __The.OTHER.Barman__ replies,
 
-    {one, small, problem} = require '???????'
+    I "Certainly see your point", (but) -> 
 
-    I "Certainly see your point, but there is #{one small problem()}"
+        but (there, is, one, small, problem) -> 
+
+            is there one small problem '?'
 
 
 # Ahem!
@@ -57,7 +59,7 @@ __The.OTHER.Barman__ replies,
 
     require 'religion'
 
-    hell '!!', make: it: a: 'double'
+    hell '!', make: it: a: 'double'
 
 .
 
