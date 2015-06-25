@@ -36,7 +36,7 @@ And __TheBarman__ says,
             Any information that one civilization might provide
             the other would appear elementary, and thus they do
             not try to communicate, any more than #{You} and #{
-            I} attemt talking to #{ants(ants)}.
+           I} attemt talking to #{ants(ants(ants(ants(ants))))}
 
             Even though we do ascribe a form of intelligence to
             them.
@@ -46,20 +46,17 @@ And __TheBarman__ says,
 And __TheOtherBarman__ replies,
 
     I("""
-
         Certainly see your point, 
         but there is #{ 
             OneSmallProblem()
         }
-
     """)
 
 # Ahem!
 
     interjected 'the', BigBang, """
-
+    
         Any chance you could serve me up a #{ singularity() }
-
     """
 
     hell '!!', make it, a 'double'
