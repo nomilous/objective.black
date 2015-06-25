@@ -46,32 +46,26 @@ And __The.OTHER.Barman__ replies,
 
     require 'i.'
 
-    I("""
-        Certainly see your point, 
-        but there is #{ 
-            one small problem
-        }
-
-    """)
+    I "Certainly see your point, but there is #{one small problem}"
 
 
 # Ahem!
 
-    i.nterjected 'the', Big.Bang, """
-        Any chance you could serve me up a #{ singularity() }
-    """
+    interjected the, Big.Bang, "Any chance you could serve me up a #{ singularity() }"
 
     require 'religion'
 
-    hell '!!', make: it: a: 'double'
+    hell '!!', make: it: a: double
 
 .
 
-    require('get') '/a/load/of/this/guy', (quof) -> quof.s(The.Barman)
+    require('get') '/a/load/of/this/guy', (quofs) -> quofs The.Barman
 
-    ['He'].thinks "its already #{ opening.Time }"
-
-
+    [he].thinks "its already #{ opening.Time }"
 
 
-to be continued
+
+
+##### to be continued...
+
+and made to actually run
