@@ -49,11 +49,11 @@ And __The.OTHER.Barman__ replies,
     I("""
         Certainly see your point, 
         but there is #{ 
-            OneSmallProblem()
+            OneSmallProblem    (require 'inteject')
         }
+
     """)
-    
-    require 'inteject'
+
 
 # Ahem!
 
