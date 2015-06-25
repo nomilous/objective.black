@@ -1,0 +1,8 @@
+{
+  "uuid": "a812ed7b-38ae-478c-91b4-a5397308d219",
+  "description": "pending description",
+  "repl": {
+    "listen": "/tmp/socket-a812ed7b-38ae-478c-91b4-a5397308d219"
+  },
+  "plugins": {}
+}
