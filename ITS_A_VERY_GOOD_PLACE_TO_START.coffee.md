@@ -61,7 +61,7 @@ __The.OTHER.Barman__ replies,
 
 .
 
-    require('get') '/a/load/of/this/guy', (quofs) -> 
+    get = require('get') '/a/load/of/this/guy', (quofs) ->
 
         quofs The.Barman
 
