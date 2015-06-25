@@ -55,15 +55,15 @@ And __TheOtherBarman__ replies,
 # Ahem!
 
     interjected 'the', BigBang, """
-    
         Any chance you could serve me up a #{ singularity() }
     """
-
     hell '!!', make it, a 'double'
 
     #
+    #
+    #
 
-    get '/a/load/of/this/guy' (quof) -> quof.s(TheBarman)
+    get '/a/load/of/this/guy', (quof) -> quof.s(TheBarman)
 
     ['He'].thinks "its already #{ opening.Time }"
 
