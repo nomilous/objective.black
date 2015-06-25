@@ -44,7 +44,7 @@ And __The.Barman__ says,
 
         """
 
-And __The.OTHER.Barman__ replies,
+__The.OTHER.Barman__ replies,
 
     {one, small, problem} = require '???????'
 
