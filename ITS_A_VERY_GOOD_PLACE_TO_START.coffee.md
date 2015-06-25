@@ -46,9 +46,9 @@ And __The.Barman__ says,
 
 And __The.OTHER.Barman__ replies,
 
-    require 'i.'
+    {one, small, problem} = require '???????'
 
-    I "Certainly see your point, but there is #{one small problem}"
+    I "Certainly see your point, but there is #{one small problem()}"
 
 
 # Ahem!
@@ -57,13 +57,15 @@ And __The.OTHER.Barman__ replies,
 
     require 'religion'
 
-    hell '!!', make: it: a: double
+    hell '!!', make: it: a: 'double'
 
 .
 
-    require('get') '/a/load/of/this/guy', (quofs) -> quofs The.Barman
+    require('get') '/a/load/of/this/guy', (quofs) -> 
 
-    [he()].thinks "its already #{ opening.Time }"
+        quofs The.Barman
+
+        [he()].thinks "its already #{ opening.Time }"
 
 
 
