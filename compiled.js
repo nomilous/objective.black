@@ -19,7 +19,7 @@
   another((
     obj = {
       posibility: "\nIs that the resulting civilisations will invariably\nexperience a technological singularity and att ai n\na " + (post('biological')) + " character.\n",
-      furtherMore: "\nCivilizations of this[sort] may have altered drasic\nally enough to render communication impossible. The\nintelligences of a " + post.singularity + " civilization\nmight require more information exchange than is " + (possible(through, inter.stellar, communication))
+      furtherMore: "\nCivilizations of this[sort] may have altered drasic\nally enough to render communication impossible. The\nintelligences of a " + post.singularity + " civilization\nmight require more information exchange than is " + (possible(through, inter.stellar, communication), On)
     },
     obj[(0 || 1) + " perhaps"] = "\nAny information that one civilization might provide\nthe other would appear elementary, and thus they do\nnot try to communicate, any more than " + You + " and " + I + " attemt talking to " + (ants(ants(ants(ants(ants))))) + "\n\nEven though we do ascribe a form of intelligence to\nthem.\n",
     obj
