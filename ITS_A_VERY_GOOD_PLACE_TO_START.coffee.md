@@ -102,5 +102,5 @@ Replied __The.Barman__
 
 And [made to](https://github.com/nomilous/objective.black/blob/master/package.json#L22) actually [run](https://www.youtube.com/watch?v=SVdoZNxtL8k).
 
-I think it should serve a webpage. [/get/a/load/of/this/guy](http://objective.black/get/a/load/of/this/guy)
+I think it should serve a webpage. [/get/a/load/of/this/guy](http://objective.black/a/load/of/this/guy)
 
