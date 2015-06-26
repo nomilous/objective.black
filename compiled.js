@@ -51,10 +51,17 @@
   require('aaaaw');
 
   aaaaw('Come on guys', I(function(just, want, a, drink) {
+    var i, len, ref1, results;
     if ('you dont want' === 2) {
       serve(me);
     }
-    return I['could'].always('head', On(over(2, that(['place', 'across', the])))).street();
+    ref1 = want(a).street();
+    results = [];
+    for (i = 0, len = ref1.length; i < len; i++) {
+      drink = ref1[i];
+      results.push(I['could'].always(just('head', On(over(2, that(['place', 'across', the]))))));
+    }
+    return results;
   }));
 
   I['wouldn\'t'](function() {

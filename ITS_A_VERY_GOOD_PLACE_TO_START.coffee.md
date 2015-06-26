@@ -84,7 +84,7 @@ __The.OTHER.Barman__ replies,
 
             serve me
 
-        I['could'].always 'head', On over 2, that ['place', 'across', the]
+        I['could'].always just 'head', On over 2, that ['place', 'across', the] for drink in want a
 
         .street()
 
