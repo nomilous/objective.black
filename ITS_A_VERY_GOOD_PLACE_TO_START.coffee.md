@@ -90,7 +90,7 @@ __The.OTHER.Barman__ replies,
 
 .
 
-    I['wouldn\'t'] -> do (that) -> if I .was 'you'
+    I['wouldn\'t'] -> do (that) -> that() if I.was == 'you'
 
 Replied __The.Barman__
 
