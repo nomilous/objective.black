@@ -65,8 +65,10 @@
     })(that);
   });
 
+  require('humans');
+
   require('their')(function() {
-    return universes.keep('landing', 'up' + having('HUMANS in'));
+    return universes.keep('landing', 'up' + require('having')(humans('in')));
   });
 
 }).call(this);

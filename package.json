@@ -4,7 +4,8 @@
   "description": "Let's start [at the very beginning](https://github.com/nomilous/objective.black/blob/master/ITS_A_VERY_GOOD_PLACE_TO_START.coffee.md)...",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "story": "coffee -c ITS_A_VERY_GOOD_PLACE_TO_START.coffee.md && mv ITS_A_VERY_GOOD_PLACE_TO_START.js compiled.js"
   },
   "repository": {
     "type": "git",

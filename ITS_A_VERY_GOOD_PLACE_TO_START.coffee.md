@@ -92,9 +92,11 @@ __The.OTHER.Barman__ replies,
 
     I['wouldn\'t'] -> do (that) -> that() if I.was == 'you'
 
+    require 'humans'
+
 Replied __The.Barman__
 
-    require('their') -> universes.keep 'landing', 'up' + having 'HUMANS in'
+    require('their') -> universes.keep 'landing', 'up' + require('having') humans 'in'
 
 
 
