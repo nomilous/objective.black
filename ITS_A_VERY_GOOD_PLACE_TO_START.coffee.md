@@ -90,9 +90,7 @@ __The.OTHER.Barman__ replies,
 
 .
 
-    I['wouldn\'t'] -> do (that) -> that() if I.was == 'you'
-
-    require 'humans'
+    I['wouldn\'t'] -> do (that) -> that(require 'humans') if I.was == 'you'
 
 Replied __The.Barman__
 

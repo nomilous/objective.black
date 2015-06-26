@@ -60,12 +60,10 @@
   I['wouldn\'t'](function() {
     return (function(that) {
       if (I.was === 'you') {
-        return that();
+        return that(require('humans'));
       }
     })(that);
   });
-
-  require('humans');
 
   require('their')(function() {
     return universes.keep('landing', 'up' + require('having')(humans('in')));
