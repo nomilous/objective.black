@@ -54,11 +54,11 @@
     if ('you dont want' === 2) {
       serve(me);
     }
-    ref1 = want(a).street();
+    ref1 = want(a);
     results = [];
     for (i = 0, len = ref1.length; i < len; i++) {
       drink = ref1[i];
-      results.push(I['could'].always(just('head', On(over(2, that(['place', 'across', the]))))));
+      results.push(I['could'].always(just('head', On(over(2, that(['place', 'across', the.street()]))))));
     }
     return results;
   }));
