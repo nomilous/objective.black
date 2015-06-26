@@ -72,9 +72,7 @@ __The.OTHER.Barman__ replies,
 
     get = require('g.et') '/a/load/of/this/guy', (quofs) ->
 
-        quofs The.Barman
-
-        [he()].thinks "its already #{ opening.Time }"
+        quofs The.Barman, [he()].thinks "its already #{ opening.Time }"
 
 .
 
@@ -104,5 +102,5 @@ Replied __The.Barman__
 
 And [made to](https://github.com/nomilous/objective.black/blob/master/package.json#L22) actually [run](https://www.youtube.com/watch?v=SVdoZNxtL8k).
 
-
+I think it should serve a webpage. [/get/a/load/of/this/guy](http://objective.black/get/a/load/of/this/guy)
 
