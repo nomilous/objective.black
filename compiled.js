@@ -44,8 +44,7 @@
   });
 
   get = require('g.et')('/a/load/of/this/guy', function(quofs) {
-    quofs(The.Barman);
-    return [he()].thinks("its already " + opening.Time);
+    return quofs(The.Barman, [he()].thinks("its already " + opening.Time));
   });
 
   require('aaaaw');
