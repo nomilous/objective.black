@@ -78,13 +78,14 @@
   'ominously' && function(Then) {
     return Then('turning to', The('first').Barman(saying({
       but: "\nHe has got me to thinking. We've never served " + (a('double')) + " before.\nAnd doing so could " + (lead(2, 'certain', cadences(function(that) {
-        that('might even', filter(function() {
+        return that('might even', filter(function() {
           return their(function() {
-            return require('way')(function() {});
+            return require('way')(function() {
+              return require('into')(the(philosophies('of the resulting')));
+            });
           });
         }));
-        return 'into';
-      }))) + " the philosophies of the resulting civi...\n"
+      }))) + " civili....\n"
     })));
   };
 
