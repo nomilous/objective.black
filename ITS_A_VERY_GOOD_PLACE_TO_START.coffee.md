@@ -98,7 +98,7 @@ Replied __The.Barman__
     require('their') -> universes.keep 'landing', 'up' + require('having') humans 'in'
 
 
-"Yeah, Humans...", repeats The Other Barman - ominously.
+"Yeah, Humans...", repeats __The.Other.Barman__ - ominously.
 
     'ominously' && (Then) ->
 
