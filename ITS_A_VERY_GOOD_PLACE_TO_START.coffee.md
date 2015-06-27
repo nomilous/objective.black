@@ -108,8 +108,8 @@ Replied __The.Barman__
 
                 He has got me to thinking. We've never served #{a 'double'} before.
                 And doing so could #{lead(2, 'certain', cadences (that) -> 
-                that 'might even', filter -> their -> require('way') -> require(
-                'into') the(  philosophies 'of the resulting'))} civili....
+                that 'might even', filter -> their -> enquire('way') -> enquire(
+                'into') the( philosophies 'of the resulting'))} civili....
 
             """
 
