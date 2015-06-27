@@ -90,7 +90,7 @@
   };
 
   inter.jected(the, Big.Bang(function() {
-    return enquire('What on Earth are humans?');
+    return enquire('What "ON EARTH" are humans?');
   }));
 
 }).call(this);

@@ -115,7 +115,7 @@ Replied __The.Barman__
 
 # Ahem!
 
-    inter.jected the, Big.Bang -> enquire 'What on Earth are humans?'
+    inter.jected the, Big.Bang -> enquire 'What "ON EARTH" are humans?'
 
 
 
