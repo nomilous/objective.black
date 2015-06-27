@@ -80,8 +80,8 @@
       but: "\nHe has got me to thinking. We've never served " + (a('double')) + " before.\nAnd doing so could " + (lead(2, 'certain', cadences(function(that) {
         return that('might even', filter(function() {
           return their(function() {
-            return require('way')(function() {
-              return require('into')(the(philosophies('of the resulting')));
+            return enquire('way')(function() {
+              return enquire('into')(the(philosophies('of the resulting')));
             });
           });
         }));

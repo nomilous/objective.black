@@ -107,9 +107,9 @@ Replied __The.Barman__
             but: """
 
                 He has got me to thinking. We've never served #{a 'double'} before.
-                And doing so could #{lead(2, 'certain', cadences (that) -> 
-                that 'might even', filter -> their -> enquire('way') -> enquire(
-                'into') the( philosophies 'of the resulting'))} civili....
+                And doing so could #{lead(2, 'certain', cadences (that) -> that(
+                'might even', filter -> their -> enquire('way') -> enquire('into'
+                ) the( philosophies 'of the resulting')))} civili....
 
             """
 
