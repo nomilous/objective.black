@@ -1,4 +1,5 @@
     require 'multiverse'
+    require 'enquire'
 
 The __Big.Bang__ walks into __a bar__...
     
@@ -66,7 +67,7 @@ __The.OTHER.Barman__ replies,
 
     require 'religion'
 
-    hell '!', make: it: a: 'double'
+    hell '!', make: it: a 'double'
 
 .
 
@@ -95,6 +96,26 @@ __The.OTHER.Barman__ replies,
 Replied __The.Barman__
 
     require('their') -> universes.keep 'landing', 'up' + require('having') humans 'in'
+
+
+"Yeah, Humans...", repeats The Other Barman - ominously.
+
+    'ominously' && (Then) ->
+
+        Then 'turning to', The('first').Barman saying
+
+            but: """
+
+                He has got me to thinking. We've never served #{a 'double'} before.
+                And doing so could #{lead(2, 'certain', cadences (that) -> 
+                that 'might even', filter -> their -> require('way') -> 
+                'into')} the philosophies of the resulting civi...
+
+            """
+
+# Ahem!
+
+    inter.jected the, Big.Bang -> enquire 'What on Earth are humans?'
 
 
 

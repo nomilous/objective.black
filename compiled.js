@@ -4,6 +4,8 @@
 
   require('multiverse');
 
+  require('enquire');
+
   require('ants');
 
   ref = require('./'), I = ref.I, We = ref.We, the = ref.the;
@@ -37,9 +39,7 @@
 
   hell('!', {
     make: {
-      it: {
-        a: 'double'
-      }
+      it: a('double')
     }
   });
 
@@ -74,5 +74,22 @@
   require('their')(function() {
     return universes.keep('landing', 'up' + require('having')(humans('in')));
   });
+
+  'ominously' && function(Then) {
+    return Then('turning to', The('first').Barman(saying({
+      but: "\nHe has got me to thinking. We've never served " + (a('double')) + " before.\nAnd doing so could " + (lead(2, 'certain', cadences(function(that) {
+        that('might even', filter(function() {
+          return their(function() {
+            return require('way')(function() {});
+          });
+        }));
+        return 'into';
+      }))) + " the philosophies of the resulting civi...\n"
+    })));
+  };
+
+  inter.jected(the, Big.Bang(function() {
+    return enquire('What on Earth are humans?');
+  }));
 
 }).call(this);
